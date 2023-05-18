@@ -1,4 +1,11 @@
 # OpenGL_UserControlled_3DShapes
+
+Author: Leo Martinez III
+
+Contact: [leo.martinez@students.tamuk.edu](mailto:leo.martinez@students.tamuk.edu)
+
+Created: Fall 2022
+
 OpenGL program written in C++ that demonstrates a live demo of two 3D shapes and one 2D shape constantly moving. The user will have control to move each shape in every direction (x ,y, and z plane). The user will also have the ability to change the color scheme of the program, or stop their animation with a mouse click.
 I will list every function available with user input below:
 
@@ -47,4 +54,3 @@ RECTANGULAR PRISM MOVEMENT FUNCS:
 'page down': move rectangular prism BACKWARD |
 
 The program was written in C++ OpenGL using DevC++.
-Created by Leo Martinez III in Fall 2022.
